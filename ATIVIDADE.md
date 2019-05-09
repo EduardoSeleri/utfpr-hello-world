@@ -14,7 +14,7 @@
 ```
 int main(){
     int comida;
-    if (comida=coxinha){
+    if (comida == coxinha){
         printf("delicia");
     }
 }
